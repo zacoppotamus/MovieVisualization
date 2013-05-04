@@ -7,7 +7,7 @@ Quick and dirty analysis of the number of films shot in every state. Written in 
 
 ##Analysis
 
-This was a very quick hack/proof-of-concept and is in no way complete yet. 
+This was a very quick hack/proof-of-concept (done for an open-ended assignment in 2 days) and is in no way complete yet. 
 
 I explored many different possibilities with the Python parser regarding the direction of this project. My first thought was
 to find a correlation between the budget of certain movies and their user rating. 
@@ -27,7 +27,7 @@ You may notice some films appearing twice (eg. The Godfather). That is because t
 ##Acknowledgments 
 The basic functionalities for the Processing sketch are an adaptation of [Ben Fry's](http://benfry.com) example from the book Visualizing Data.
 
-This was an open-ended assignment for my course.
+[BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) is friggin' amazing.
 
 An [izac](http://izac.us) joint, 2013.
 
