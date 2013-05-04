@@ -1,0 +1,161 @@
+The Shawshank Redemption	25,000,000	Ohio
+The Godfather	6,000,000	New York
+The Godfather: Part II	13,000,000	New York
+Pulp Fiction	8,000,000	California
+12 Angry Men	350,000	New York
+Fight Club	63,000,000	California
+Star Wars: Episode V - The Empire Strikes Back	18,000,000	California
+Inception	160,000,000	California
+One Flew Over the Cuckoo\s Nest	4,400,000	Oregon
+Goodfellas	25,000,000	New York
+Forrest Gump	55,000,000	California
+Once Upon a Time in the West	5,000,000	Arizona
+Casablanca	950,000	Arizona
+The Usual Suspects	6,000,000	California
+Se7en	33,000,000	California
+The Silence of the Lambs	19,000,000	West Virginia
+It's a Wonderful Life	3,180,000	California
+Rear Window	1,000,000	California
+Psycho	806,947	California
+Sunset Blvd.	1,752,000	California
+City Lights	1,500,000	California
+American History X	7,500,000	California
+Memento	9,000,000	California
+Django Unchained	100,000,000	California
+Terminator 2: Judgment Day	94,000,000	California
+Modern Times	1,500,000	California
+North by Northwest	3,101,000	California
+Citizen Kane	686,033	New York
+Double Indemnity	927,262	California
+Back to the Future	19,000,000	California
+The Departed	90,000,000	Massachusetts
+The Shining	19,000,000	Colorado
+Vertigo	2,479,000	California
+American Beauty	15,000,000	California
+The Great Dictator	2,000,000	California
+Taxi Driver	1,300,000	New York
+The Green Mile	60,000,000	North Carolina
+The Prestige	40,000,000	California
+To Kill a Mockingbird	2,000,000	California
+Reservoir Dogs	1,200,000	California
+Requiem for a Dream	4,500,000	New York
+Eternal Sunshine of the Spotless Mind	20,000,000	New York
+Once Upon a Time in America	30,000,000	New York
+Witness for the Prosecution	3,000,000	California
+Singin' in the Rain	2,540,800	California
+Star Wars: Episode VI - Return of the Jedi	32,500,000	California
+Some Like It Hot	2,883,848	California
+Chinatown	6,000,000	California
+The Apartment	3,000,000	New York
+L.A. Confidential	35,000,000	California
+The Sting	5,500,000	California
+Raging Bull	18,000,000	California
+Mr. Smith Goes to Washington	1,500,000	California
+The General	750,000	Oregon
+Indiana Jones and the Last Crusade	48,000,000	California
+The Kid	250,000	California
+On the Waterfront	910,000	New Jersey
+Die Hard	28,000,000	California
+The Maltese Falcon	300,000	California
+Rebecca	1,288,000	California
+The Avengers	220,000,000	Pennsylvania
+Heat	60,000,000	California
+Blade Runner	28,000,000	California
+Scarface	25,000,000	Florida
+Touch of Evil	829,000	California
+The Gold Rush	923,000	California
+Gran Torino	33,000,000	Michigan
+The Big Lebowski	15,000,000	California
+Judgment at Nuremberg	3,000,000	California
+It Happened One Night	325,000	California
+Fargo	7,000,000	Minnesota
+Warrior	25,000,000	California
+The Deer Hunter	15,000,000	Ohio
+Strangers on a Train	1,200,000	New York
+High Noon	750,000	California
+The Best Years of Our Lives	2,100,000	Ohio
+Sin City	40,000,000	Texas
+Gone with the Wind	3,977,000	California
+Butch Cassidy and the Sundance Kid	6,000,000	California
+The Thing	15,000,000	Alaska
+No Country for Old Men	25,000,000	New Mexico
+Casino	52,000,000	Nevada
+Notorious	2,000,000	California
+The Wizard of Oz	2,777,000	California
+Good Will Hunting	10,000,000	Massachusetts
+Jaws	8,000,000	Massachusetts
+Into the Wild	15,000,000	Alaska
+The Sixth Sense	40,000,000	Pennsylvania
+Annie Hall	4,000,000	New York
+The Night of the Hunter	795,000	California
+Kill Bill: Vol. 1	30,000,000	California
+Dial M for Murder	1,400,000	California
+Donnie Darko	4,500,000	California
+There Will Be Blood	25,000,000	California
+Stand by Me	8,000,000	California
+Million Dollar Baby	30,000,000	California
+Who's Afraid of Virginia Woolf?	7,500,000	Massachusetts
+The Terminator	6,400,000	California
+Sullivan's Travels	689,665	California
+The Hustler	2,000,000	California
+Twelve Monkeys	29,000,000	Maryland
+Black Swan	13,000,000	New York
+Stalag 17	1,661,530	California
+Hachi: A Dog's Tale	16,000,000	Rhode Island
+The Graduate	3,000,000	California
+The Man Who Shot Liberty Valance	3,200,000	California
+A Beautiful Mind	60,000,000	New Jersey
+The Manchurian Candidate	2,200,000	New York
+Sweet Smell of Success	2,600,000	California
+The Lost Weekend	1,250,000	New York
+Rocky	1,100,000	Pennsylvania
+Rope	1,500,000	California
+The Artist	15,000,000	California
+All Quiet on the Western Front	1,448,864	California
+The Exorcist	10,497,444	District of Columbia
+A Streetcar Named Desire	1,800,000	California
+The Help	25,000,000	Mississippi
+Bringing Up Baby	1,073,000	California
+Star Trek	140,000,000	California
+Arsenic and Old Lace	1,120,175	New York
+The Truman Show	60,000,000	California
+A Christmas Story	CAD4,000,000	Ohio
+Beauty and the Beast	25,000,000	California
+Shutter Island	80,000,000	Maine
+The Searchers	3,750,000	Colorado
+In the Heat of the Night	2,000,000	Illinois
+The Last Picture Show	1,300,000	Texas
+The Adventures of Robin Hood	1,900,000	California
+Paris, Texas	1,162,000	California
+Jurassic Park	63,000,000	Hawaii
+Rosemary's Baby	2,300,000	New York
+Harold and Maude	1,200,000	California
+Frankenstein	291,000	California
+The Nightmare Before Christmas	18,000,000	California
+The Thin Man	226,408	California
+Rain Man	25,000,000	Nevada
+What Ever Happened to Baby Jane?	980,000	California
+King Kong	670,000	California
+All the President's Men	8,500,000	District of Columbia
+Cat on a Hot Tin Roof	3,000,000	New York
+Dawn of the Dead	650,000	Pennsylvania
+Magnolia	37,000,000	California
+Mystic River	30,000,000	Massachusetts
+The Straight Story	10,000,000	Iowa
+Young Frankenstein	2,800,000	California
+JFK	40,000,000	Virginia
+Night of the Living Dead	114,000	Pennsylvania
+The Conversation	1,600,000	California
+The Untouchables	25,000,000	Montana
+The Wrestler	6,000,000	New Jersey
+Edward Scissorhands	20,000,000	Florida
+Planet of the Apes	5,800,000	California
+Bonnie and Clyde	2,500,000	California
+In Cold Blood	3,500,000	Colorado
+Sling Blade	890,000	Arkansas
+Kill Bill: Vol. 2	30,000,000	California
+Dances with Wolves	19,000,000	South Dakota
+Crimes and Misdemeanors	19,000,000	New York
+Ed Wood	18,000,000	alifornia
+Avatar	237,000,000	Hawaii
+This Is Spinal Tap	2,500,000	California

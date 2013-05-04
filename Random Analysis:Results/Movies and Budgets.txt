@@ -1,0 +1,235 @@
+25,000,000		The Shawshank Redemption
+6,000,000		The Godfather
+13,000,000		The Godfather: Part II
+8,000,000		Pulp Fiction
+185,000,000		The Dark Knight
+350,000			12 Angry Men
+25,000,000		Schindler's List
+94,000,000		The Lord of the Rings: The Return of the King
+63,000,000		Fight Club
+18,000,000		Star Wars: Episode V - The Empire Strikes Back
+93,000,000		The Lord of the Rings: The Fellowship of the Ring
+160,000,000		Inception
+4,400,000		One Flew Over the Cuckoo's Nest
+25,000,000		Goodfellas
+11,000,000		Star Wars
+55,000,000		Forrest Gump
+94,000,000		The Lord of the Rings: The Two Towers
+63,000,000		The Matrix
+5,000,000		Once Upon a Time in the West
+950,000			Casablanca
+6,000,000		The Usual Suspects
+33,000,000		Se7en
+19,000,000		The Silence of the Lambs
+3,180,000		It's a Wonderful Life
+1,000,000		Rear Window
+18,000,000		Raiders of the Lost Ark
+806,947			Psycho
+1,752,000		Sunset Blvd.
+230,000,000		The Dark Knight Rises
+1,500,000		City Lights
+7,500,000		American History X
+9,000,000		Memento
+31,500,000		Apocalypse Now
+1,800,000		Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+100,000,000		Django Unchained
+94,000,000		Terminator 2: Judgment Day
+1,500,000		Modern Times
+70,000,000		Saving Private Ryan
+3,101,000		North by Northwest
+11,000,000		Alien
+935,000			Paths of Glory
+686,033			Citizen Kane
+927,262			Double Indemnity
+19,000,000		Back to the Future
+90,000,000		The Departed
+19,000,000		The Shining
+2,479,000		Vertigo
+15,000,000		American Beauty
+2,000,000		The Great Dictator
+18,500,000		Aliens
+200,000,000		Toy Story 3
+1,300,000		Taxi Driver
+180,000,000		WALL·E
+103,000,000		Gladiator
+60,000,000		The Green Mile
+2,200,000		A Clockwork Orange
+15,000,000		Lawrence of Arabia
+40,000,000		The Prestige
+2,000,000		To Kill a Mockingbird
+1,100,000		The Treasure of the Sierra Madre
+1,200,000		Reservoir Dogs
+4,500,000		Requiem for a Dream
+45,000,000		The Lion King
+20,000,000		Eternal Sunshine of the Spotless Mind
+30,000,000		Once Upon a Time in America
+3,000,000		Witness for the Prosecution
+2,540,800		Singin' in the Rain
+72,000,000		Braveheart
+32,500,000		Star Wars: Episode VI - Return of the Jedi
+2,883,848		Some Like It Hot
+17,000,000		Full Metal Jacket
+6,000,000		Chinatown
+3,000,000		The Apartment
+18,000,000		Amadeus
+35,000,000		L.A. Confidential
+5,500,000		The Sting
+10,500,000		2001: A Space Odyssey
+3,000,000		The Bridge on the River Kwai
+18,000,000		Raging Bull
+1,500,000		Mr. Smith Goes to Washington
+750,000			The General
+48,000,000		Indiana Jones and the Last Crusade
+150,000,000		Batman Begins
+250,000			The Kid
+910,000			On the Waterfront
+4,000,000		The Great Escape
+28,000,000		Die Hard
+6,000,000		Snatch.
+13,500,000		Pan's Labyrinth
+75,000,000		Inglourious Basterds
+175,000,000		Up
+5,000,000		The Elephant Man
+300,000			The Maltese Falcon
+1,288,000		Rebecca
+220,000,000		The Avengers
+30,000,000		Toy Story
+60,000,000		Heat
+28,000,000		Blade Runner
+25,000,000		Scarface
+829,000			Touch of Evil
+923,000			The Gold Rush
+33,000,000		Gran Torino
+15,000,000		The Big Lebowski
+3,000,000		Judgment at Nuremberg
+325,000			It Happened One Night
+7,000,000		Fargo
+25,000,000		Warrior
+15,000,000		The Deer Hunter
+1,200,000		Strangers on a Train
+750,000			High Noon
+2,100,000		The Best Years of Our Lives
+40,000,000		Sin City
+3,977,000		Gone with the Wind
+6,000,000		Butch Cassidy and the Sundance Kid
+1,821,052		Ace in the Hole
+17,500,000		Hotel Rwanda
+15,000,000		The Thing
+52,000,000		Casino
+25,000,000		No Country for Old Men
+54,000,000		V for Vendetta
+2,000,000		Notorious
+2,777,000		The Wizard of Oz
+10,000,000		Good Will Hunting
+6,000,000		Platoon
+8,000,000		Jaws
+15,000,000		Into the Wild
+40,000,000		The Sixth Sense
+4,000,000		Annie Hall
+795,000			The Night of the Hunter
+165,000,000		How to Train Your Dragon
+30,000,000		Kill Bill: Vol. 1
+180,000,000		The Hobbit: An Unexpected Journey
+1,400,000		Dial M for Murder
+3,800,000		Network
+94,000,000		Finding Nemo
+15,900,000		Ben-Hur
+4,500,000		Donnie Darko
+15,000,000		The King's Speech
+120,000,000		Life of Pi
+25,000,000		There Will Be Blood
+8,000,000		Stand by Me
+320,000			The Killing
+16,000,000		The Princess Bride
+30,000,000		Million Dollar Baby
+2,100,000		To Be or Not to Be
+7,500,000		Who's Afraid of Virginia Woolf?
+6,400,000		The Terminator
+689,665			Sullivan's Travels
+110,000,000		The Bourne Ultimatum
+2,000,000		The Hustler
+29,000,000		Twelve Monkeys
+13,000,000		Black Swan
+1,661,53		Stalag 17
+13,000,000		The Perks of Being a Wallflower
+16,000,000		Hachi: A Dog's Tale
+3,000,000		The Graduate
+3,200,000		The Man Who Shot Liberty Valance
+60,000,000		A Beautiful Mind
+2,200,000		The Manchurian Candidate
+125,000,000		Harry Potter and the Deathly Hallows: Part 2
+2,600,000		Sweet Smell of Success
+11,000,000		Barry Lyndon
+6,244,087		The Wild Bunch
+1,500,000		Roman Holiday
+1,250,000		The Lost Weekend
+1,100,000		Rocky
+13,000,000		In the Name of the Father
+1,500,000		Rope
+15,000,000		The Artist
+1,448,864		All Quiet on the Western Front
+140,000,000		Pirates of the Caribbean: The Curse of the Black Pearl
+10,497,444		The Exorcist
+1,800,000		A Streetcar Named Desire
+25,000,000		The Help
+1,073,000		Bringing Up Baby
+140,000,000		Star Trek
+1,120,175		Arsenic and Old Lace
+115,000,000		Monsters, Inc.
+30,000,000		District 9
+12,000,000		Papillon
+60,000,000		The Truman Show
+25,000,000		Beauty and the Beast
+150,000,000		Ratatouille
+80,000,000		Shutter Island
+3,750,000		The Searchers
+2,000,000		In the Heat of the Night
+4,000,000		Charade
+1,300,000		The Last Picture Show
+9,000,000		Manhattan
+1,900,000		The Adventures of Robin Hood
+12,000,000		Patton
+1,162,000		Paris, Texas
+63,000,000		Jurassic Park
+1,200,000		Harold and Maude
+2,300,000		Rosemary's Baby
+2,500,000		Before Sunrise
+291,000			Frankenstein
+18,000,000		The Nightmare Before Christmas
+226,408			The Thin Man
+980,000			What Ever Happened to Baby Jane?
+25,000,000		Rain Man
+670,000			King Kong
+70,000,000		Big Fish
+8,500,000		All the President's Men
+3,000,000		Cat on a Hot Tin Roof
+650,000			Dawn of the Dead
+37,000,000		Magnolia
+4,000,000		Shaun of the Dead
+30,000,000		Mystic River
+10,000,000		The Straight Story
+40,000,000		JFK
+2,800,000		Young Frankenstein
+114,000			Night of the Living Dead
+12,000,000		Spartacus
+1,600,000		The Conversation
+25,000,000		The Untouchables
+6,000,000		The Wrestler
+20,000,000		Edward Scissorhands
+5,800,000		Planet of the Apes
+100,000,000		Blood Diamond
+2,500,000		Bonnie and Clyde
+11,000,000		Doctor Zhivago
+3,500,000		In Cold Blood
+890,000			Sling Blade
+30,000,000		Kill Bill: Vol. 2
+19,000,000		Dances with Wolves
+19,000,000		Crimes and Misdemeanors
+18,000,000		Ed Wood
+92,000,000		The Incredibles
+237,000,000		Avatar
+4,000,000		Elite Squad
+15,000,000		In Bruges
+10,000,000		Before Sunset
+2,500,000		This Is Spinal Tap
+19,000,000		Letters from Iwo Jima

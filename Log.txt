@@ -1,0 +1,23 @@
+Log:
+
+Searched in iMDB and found the 265 films with user rating between 8.0 and 10, Country of origin the US and at least 12,000 votes.
+
+Parsed advance movie search results with the following criteria: Made in USA, user rating more than 8.0 with at least 12,000 votes and only feature films (266 titles).
+
+Used BeautifulSoup and Python to parse the results, which I the encode to UTF-8 and write to a file for easy manipulation.
+
+Details to varied to parse programmatically, so will revert to initial plan: Find budgets and correlate data
+
+US inflation has an average of 4.27% py.
+
+Wrote method to scrape budgets after getting every movie's imdb link
+
+Scraped all the budgets and placed them in a tsv file. Removed 31 films that didn't have any budget information.
+
+Removed all these movies from the dictionary in the script
+
+Scraped Locations and filtered locations not in the US. Wrote everything in a tsv file.
+
+Refined, now just getting number of movies from locations
+
+Parsed number of movies from every state and placed in a tsv file.
