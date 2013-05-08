@@ -1,3 +1,5 @@
+// Zac Ioannidis || zi12467
+
 HashMap hm;
 PImage mapImage;
 PImage currentImage;
@@ -22,7 +24,7 @@ void setup()
   font = loadFont("ScalaSans-Regular-14.vlw");
   textFont(font);
   // Known number of images
-  allImages = new PImage[221];
+  allImages = new PImage[242];
   hm = new HashMap();
   int currentIndex = 0;
   int idx = 0;
@@ -50,7 +52,7 @@ void draw()
   fill(230);
   smooth();
   noStroke();
-  rect(0, 400, 820, 270);
+  rect(0, 400, 820, 270, 25, 25, 0, 0);
   smooth();
   fill(192,0,0);
   noStroke();
@@ -76,7 +78,7 @@ void draw()
 void drawData (float x, float y, String abbrev, int row)
 {
     int movieNum = movieTable.getInt(row, 1);
-    float radius = map(movieNum, 0, 160, 1.8, 18);
+    float radius = map(movieNum, 0, 160, 2, 7.6);
     ellipseMode(RADIUS);
     ellipse(x,y, radius, radius);
 

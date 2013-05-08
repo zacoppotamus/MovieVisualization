@@ -143,7 +143,7 @@ class Parser:
 
 	def get_search_link (self, state):
 		q_state = urllib2.quote(state)
-		search_url = "http://www.imdb.com/search/title?count=100&locations=%s&num_votes=12000,&sort=user_rating,desc&title_type=feature&user_rating=7.3," % q_state
+		search_url = "http://www.imdb.com/search/title?count=100&locations={0},%20USA&num_votes=12000,&sort=user_rating,desc&title_type=feature&user_rating=6,".format(q_state)
 		return search_url
 
 	def get_results_no (self, state):
