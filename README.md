@@ -19,7 +19,7 @@ At the end I settled with the distribution of movies by state*, while showing th
 You may notice some films appearing twice (eg. The Godfather). That is because their filming locations span different states and have a very high rating.
 
 
-*The conditions for a movie to be included was for it to have a rating over 7.3 and at least 12,000 votes.
+*The conditions for a movie to be included was for it to have a rating over 6 and at least 12,000 votes.
 
 **You will need to increase the maximum available memory used by Processing through the preferences. 128 MBs seem to work fine.
 
